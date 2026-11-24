@@ -1,16 +1,16 @@
 # HPF Communicate
 
+<img src="assets/cover.png" alt="HPF Communicate" width="100%">
+
 > A private portal where dental laboratories and the design studio follow every prosthesis case.
 
-**Clinical communication platform** · In production · Clinical & Patient Experience  
-**Source code** · proprietary and private: this repository is documentation only.
+**Status** · In production &nbsp;·&nbsp; **Area** · Clinical & Patient Experience &nbsp;·&nbsp; **Source code** · private, documentation only
 
-![Laboratory dashboard · demonstration data](assets/lab-dashboard.png)
+### At a glance
 
-## My role
-
-Product design, development and operations.  
-The project started from my daily work as a dental CAD designer exchanging cases with laboratories.
+- One view of every case, from drop to delivery.
+- Design validated by the laboratory in two clicks, with versions kept.
+- Each laboratory sees only its own cases, proven by automated tests.
 
 ## The problem
 
@@ -20,6 +20,11 @@ Files, validations and delivery status were scattered across threads, and nobody
 ## The solution
 
 One compartmentalised portal where a laboratory drops a case, follows it through five visible steps, validates the proposed design and downloads the final files.
+
+## My role
+
+Product design, development and operations.  
+The project started from my daily work as a dental CAD designer exchanging cases with laboratories.
 
 ## Key features
 
@@ -49,7 +54,7 @@ All screenshots use demonstration or synthetic data.
 
 TypeScript · Next.js 15 · React 19 · Tailwind · Supabase · PostgreSQL · Docker · Playwright
 
-## Architecture (simplified)
+## Architecture
 
 ![Simplified architecture of HPF Communicate](assets/architecture.svg)
 
@@ -71,10 +76,10 @@ TypeScript · Next.js 15 · React 19 · Tailwind · Supabase · PostgreSQL · Do
 - Status transitions are validated on the server, not in the browser.
 - Health-data hosting certification and legal framework are not claimed.
 - The source code of HPF Communicate is proprietary and kept in a private repository.
-- This repository contains documentation and demonstration screenshots only: no source code, configuration, data or history from the private project.
+- This repository contains documentation and demonstration screenshots only.
 - Demonstrations can be arranged on request.
 
 ---
 
-Part of the [HPF Dental Solutions project portfolio](https://github.com/hpfdentalsolutions) · [hpfdentalsolutions.com](https://hpfdentalsolutions.com)  
+[Hugo Philippe Fusaro](https://github.com/hugophilippefusaro) · [HPF Dental Solutions](https://github.com/hpfdentalsolutions) · [hpfdentalsolutions.com](https://hpfdentalsolutions.com)  
 © 2026 Hugo Philippe Fusaro. All rights reserved on texts and images.
