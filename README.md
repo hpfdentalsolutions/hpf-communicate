@@ -1,6 +1,6 @@
 # HPF Communicate
 
-<img src="assets/cover-2.png" alt="HPF Communicate" width="100%">
+<img src="assets/cover-3.png" alt="HPF Communicate" width="100%">
 
 > A private portal where dental laboratories and the design studio follow every prosthesis case.
 
